@@ -1,1 +1,0 @@
-# I have made a clone of Amazon.com which includes the knowledge of HTML and CSS.
